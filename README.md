@@ -92,4 +92,4 @@ Contributions are welcome! Please fork this repo, create a branch, and submit a 
 📜 License
 
 This project is licensed under the MIT License.
-Do you want me to also add **badges (Next.js, Tailwind, Prisma, License, etc.)** at the top so your README looks more professional for GitHub?
+
